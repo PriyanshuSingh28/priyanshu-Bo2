@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>creating a web page</title>
+<style type=''text/css''>
+img{width:200;height:200;border-atyle:solid;border-width:2;border-color:green}
+</style>
+</head>
+<body>
+<h2>Fitness Gym and workout Studio</h2>
+<table border=2>
+<tr>
+<td>Yoga<br><img src="yoga.jpg" alt="picture of person doing yoga"></td>>
+<td>Dance<br><img src="danc.jpg" alt="picture"></td>
+<td>Aerobics<br><img src="aerobics.jpg" alt="picture of persons doing aerobics"></td>
+</tr>
+<tr>
+<td>Cross Fit<br><img src="crossfit.jpg" alt="picture of person doing cross fit"></td>
+<td>Zumba<br><img src="zumba.jpg" alt="Picture of persons doing zumba"></td>
+<td>Gym<br><img src="gym.jpg" alt="Picture of gym"></td>
+</tr>
+</table>
+</body>
+</html>
